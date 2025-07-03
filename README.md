@@ -11,13 +11,13 @@
 - **Data & ML:** Apache Spark, Airflow, PyTorch, TensorFlow, Transformers
 
 ## 📌 Highlight Projects
-- 🔗 [AI Resume & Interview Analyzer](https://github.com/Harsh275110/resume-analyzer)  
+- 🔗 [AI Resume & Interview Analyzer](https://github.com/Harsh275110/Resume-Screener-Analyser) 
   Automates resume/job matching and interview feedback using NLP
 
 - ☁️ [StoreIt – Cloud Storage System](https://github.com/Harsh275110/storeit)  
   Firebase-powered real-time file sync platform
 
-- 🛍 [E-Commerce Recommender System](https://github.com/Harsh275110/recommender-system)  
+- 🛍 [E-Commerce Recommender System](https://github.com/Harsh275110/Ecommerce-Recommendation-System)  
   Hybrid recommender using graph filtering, BERT, and Airflow
 
 ## 📫 Let's Connect
